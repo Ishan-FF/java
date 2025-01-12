@@ -2,6 +2,9 @@
 
 public class Bank {
     
+    Bank(){
+        System.out.println("default constructor added");
+    }
 }
 
 
